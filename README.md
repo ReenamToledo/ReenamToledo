@@ -10,8 +10,8 @@ My name is Reenam Toledo. I'm a Fullstack Developer.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&color=orange)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -25,5 +25,5 @@ My name is Reenam Toledo. I'm a Fullstack Developer.
 <a href="https://www.instagram.com/reetoledooficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0MTVsZXNnb2ZkbDBpeHAxZmdvaHQ0ZDZtaXJvNXpqeXl6b2VsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpqNkKqzmMUpUcedBn/giphy.gif" width="100"/></p>  
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0MTVsZXNnb2ZkbDBpeHAxZmdvaHQ0ZDZtaXJvNXpqeXl6b2VsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpqNkKqzmMUpUcedBn/giphy.gif" width="200"/></p>  
 <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
