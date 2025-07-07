@@ -25,5 +25,5 @@ My name is Reenam Toledo. I'm a Fullstack Developer.
 <a href="https://www.instagram.com/reetoledooficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0MTVsZXNnb2ZkbDBpeHAxZmdvaHQ0ZDZtaXJvNXpqeXl6b2VsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpqNkKqzmMUpUcedBn/giphy.gif"/></p>  
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0MTVsZXNnb2ZkbDBpeHAxZmdvaHQ0ZDZtaXJvNXpqeXl6b2VsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpqNkKqzmMUpUcedBn/giphy.gif" width="100"/></p>  
 <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
