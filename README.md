@@ -23,7 +23,7 @@ My name is Reenam Toledo. I'm a Fullstack Developer.
 <a href="https://www.youtube.com/@reetoledooficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/reenam-toledo-fonseca-ba8523329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/reetoledooficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:reenamtoledo364@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0MTVsZXNnb2ZkbDBpeHAxZmdvaHQ0ZDZtaXJvNXpqeXl6b2VsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpqNkKqzmMUpUcedBn/giphy.gif" width="200"/></p>  
 <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
