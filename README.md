@@ -4,7 +4,7 @@
 
 My name is Reenam Toledo. I'm a Fullstack Developer.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ReenamToledo&repo=ReenamToledo&countColorcountColor)
 
 ### Languages & Tools 🛠
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
